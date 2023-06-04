@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "type": "Payment",
+    "amount": 100.0,
+    "name": "IKEA",
+    "description": "Furniture purchase",
+    "date": "2023-06-01",
+    "status": "Pending"
+  },
+  {
+    "id": "2",
+    "type": "Credit",
+    "amount": 50.0,
+    "name": "Target",
+    "description": "Grocery shopping electronics purchase",
+    "date": "2023-05-30",
+    "status": "Pending",
+    "authorizedUser": "John Doe"
+  },
+  {
+    "id": "3",
+    "type": "Payment",
+    "amount": 25.0,
+    "name": "Amazon",
+    "description": "Online shopping",
+    "date": "2023-05-28",
+    "status": "Declined"
+  },
+  {
+    "id": "4",
+    "type": "Credit",
+    "amount": 75.0,
+    "name": "Best Buy",
+    "description": "Electronics purchase",
+    "date": "2023-05-25",
+    "status": "Approved",
+    "authorizedUser": "Jane Smith"
+  },
+  {
+    "id": "5",
+    "type": "Payment",
+    "amount": 200.0,
+    "name": "Walmart",
+    "description": "Household items",
+    "date": "2023-05-22",
+    "status": "Approved"
+  },
+  {
+    "id": "6",
+    "type": "Credit",
+    "amount": 30.0,
+    "name": "Starbucks",
+    "description": "Coffee",
+    "date": "2023-05-20",
+    "status": "Approved",
+    "authorizedUser": "John Doe"
+  },
+  {
+    "id": "7",
+    "type": "Payment",
+    "amount": 80.0,
+    "name": "Home Depot",
+    "description": "Home improvement",
+    "date": "2023-05-18",
+    "status": "Approved"
+  },
+  {
+    "id": "8",
+    "type": "Credit",
+    "amount": 15.0,
+    "name": "Apple Store",
+    "description": "Accessories",
+    "date": "2023-05-15",
+    "status": "Approved",
+    "authorizedUser": "Jane Smith"
+  },
+  {
+    "id": "9",
+    "type": "Payment",
+    "amount": 60.0,
+    "name": "Target",
+    "description": "Clothing",
+    "date": "2023-05-12",
+    "status": "Approved"
+  },
+  {
+    "id": "10",
+    "type": "Credit",
+    "amount": 40.0,
+    "name": "Amazon",
+    "description": "Books",
+    "date": "2023-05-10",
+    "status": "Approved",
+    "authorizedUser": "John Doe"
+  }
+]

@@ -16,8 +16,15 @@
 /build
 
 # misc
+.vscode/*
+!.vscode/extensions.json
+.idea
 .DS_Store
-*.pem
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 # debug
 npm-debug.log*

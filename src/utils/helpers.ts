@@ -42,7 +42,7 @@ export const formatTransactionDate = (dateString: Date): string => {
 
 export const calculateDailyPoints = () => {
   const currentDate = new Date()
-  currentDate.setDate(currentDate.getDate() + 44)
+  currentDate.setDate(currentDate.getDate())
   const currentMonth = currentDate.getMonth()
 
   const seasons = [
